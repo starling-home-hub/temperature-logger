@@ -1,0 +1,22 @@
+{
+  "name": "temperature-logger",
+  "version": "1.0.0",
+  "description": "Starling Developer Connect API: Node.js Nest Thermostat temperature logging example",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/starling-home-hub/temperature-logger.git"
+  },
+  "author": "Starling LLC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/starling-home-hub/temperature-logger/issues"
+  },
+  "homepage": "https://github.com/starling-home-hub/temperature-logger#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
